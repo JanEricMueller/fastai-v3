@@ -8,8 +8,8 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-# export_file_url = 'https://drive.google.com/uc?export=download&confirm=JUBl&id=1-12l7DARqSKplfrCyf3ZLD-eIL9gtCu_'
-export_file_url = 'https://drive.google.com/uc?export=download&confirm=JUBl&id=1-12l7DARqSKplfrCyf3ZLD-eIL9gtCu_'
+# export_file_url = 'https://drive.google.com/uc?export=download&confirm=-4CG&id=1-12l7DARqSKplfrCyf3ZLD-eIL9gtCu_'
+export_file_url = 'https://drive.google.com/uc?export=download&confirm=-4CG&id=1-12l7DARqSKplfrCyf3ZLD-eIL9gtCu_'
 export_file_name = 'export.pkl'
 
 classes = ['clas1', 'clas2', 'clas3', 'clas4', 'clas5', 'clas6', 'clas7']
