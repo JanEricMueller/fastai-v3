@@ -9,7 +9,7 @@ from fastai import *
 from fastai.vision import *
 
 # export_file_url = 'https://drive.google.com/uc?export=download&confirm=NE8p&id=1-12l7DARqSKplfrCyf3ZLD-eIL9gtCu_'
-export_file_url = 'https://drive.google.com/uc?export=download&confirm=NE8p&id=1-12l7DARqSKplfrCyf3ZLD-eIL9gtCu_'
+export_file_url = 'https://www.googleapis.com/drive/v3/files/1-G9sEacQdrE0qKek1SCB-7YkzYM-DHKZ?alt=media&key=AIzaSyCRwro7p86EG-cDvB3YL9G6tn8-ouSi7_Y'
 export_file_name = 'export.pkl'
 
 classes = ['clas1', 'clas2', 'clas3', 'clas4', 'clas5', 'clas6', 'clas7']
