@@ -9,8 +9,8 @@ from fastai import *
 from fastai.vision import *
 
 # export_file_url = 'https://drive.google.com/uc?export=download&confirm=NE8p&id=1-12l7DARqSKplfrCyf3ZLD-eIL9gtCu_'
-export_file_url = 'https://www.googleapis.com/drive/v3/files/1-U_SV76V_1Qzbww5w3eMmmY1MNEPcwBO?alt=media&key=AIzaSyBx-UD6CMGrmQF2LTtWrvxHgQpqCaOQOEc'
-export_file_name = 'Netzwerk5.1'
+export_file_url = 'https://www.googleapis.com/drive/v3/files/1-30ZiSyUWN2xKUTVjO-jYhFdylD4EO8t?alt=media&key=AIzaSyCRwro7p86EG-cDvB3YL9G6tn8-ouSi7_Y'
+export_file_name = 'Netzwerk5.1.pkl'
 
 classes = ['clas1', 'clas2', 'clas3', 'clas4', 'clas5', 'clas6', 'clas7']
 path = Path(__file__).parent
